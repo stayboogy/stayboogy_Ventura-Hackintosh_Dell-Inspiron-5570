@@ -2,11 +2,12 @@
 
 ## Ventura Installer Image for Dell Inspiron 5570 and 5000 series Laptops
 
-direct link:  
+https://www.mediafire.com/file/hw2n6ttctgxim1y/stayboogy_Ventura.raw/file
 
 1) Write the image to a flash drive of 16GB or more using your preferred method
 
 2) if you don't know how to write this image to a flash drive, stop here, go no further
+
 
 ## Full Video Tutorial
 
