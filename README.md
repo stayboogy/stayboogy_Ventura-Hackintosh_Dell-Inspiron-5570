@@ -4,6 +4,8 @@
 
 audio
 
+AirPod Audio DRM
+
 video graphics
 
 display backlight
@@ -26,6 +28,8 @@ sidecar
 
 unlock with Apple Watch
 
+continuity camera
+
 file vault
 
 ## Not Working:
@@ -40,6 +44,8 @@ https://www.mediafire.com/file/hw2n6ttctgxim1y/stayboogy_Ventura.raw/file
 1) Write the image to a flash drive of 16GB or more using your preferred method
 
 2) if you don't know how to write this image to a flash drive, stop here, go no further
+
+## Post Setup EFI
 
 
 ## Full Video Tutorial
@@ -70,3 +76,7 @@ Optional:
 2) Supplied SMBIOS Information in the Installer EFI config.plist is for installing only.  DO NOT sign into iCloud without inputing your own SMBIOS info in the Platform Section.
 
 3) OpenCore Configurator is included in this repo so you can mount your EFI for Post Setup Tasks and so you can edit your config.plist
+
+4) All Continuity Features are working, but they require a compatible wireless network card - I got mine off Amazon and I have all everything working.
+
+5) For AirPod Audio Streaming to working from Apple Music and Apple TV, you must authorize your computer from the Account menu in each app
