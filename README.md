@@ -1,6 +1,6 @@
 # stayboogy Ventura Hackintosh Dell Inspiron 5570
 
-## Working
+## Working:
 
 audio
 
