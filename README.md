@@ -1,24 +1,24 @@
 # stayboogy Ventura Hackintosh Dell Inspiron 5570
 
--Working:
+## Working
 
-audio
-video graphics
-display backlight
-hdmi output
-keyboard backlight
-keyboard media keys
-keyboard audio keys
-icloud (requires smbios editing)
-wifi + bluetooth + continuity (requires proper wifi card - amazon)
-airdrop
-sidecar
-unlock with Apple Watch
-file vault
+-audio
+-video graphics
+-display backlight
+-hdmi output
+-keyboard backlight
+-keyboard media keys
+-keyboard audio keys
+-icloud (requires smbios editing)
+-wifi + bluetooth + continuity (requires proper wifi card - amazon)
+-airdrop
+-sidecar
+-unlock with Apple Watch
+-file vault
 
--Not Working:
+## Not Working:
 
-keyboard display brightness keys F11/F12 (use FN+S / FN+B instead)
+-keyboard display brightness keys F11/F12 (use FN+S / FN+B instead)
 
 
 ## Ventura Installer Image for Dell Inspiron 5570 and 5000 series Laptops
