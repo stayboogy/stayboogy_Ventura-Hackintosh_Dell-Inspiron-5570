@@ -140,6 +140,17 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
+				<key>shikigva</key>
+				<integer>80</integer>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,31,3</string>
+				<key>device_type</key>
+				<string>Audio device</string>
+				<key>model</key>
+				<string>Sunrise Point-LP HD Audio</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -634,6 +645,8 @@
 			<integer>0</integer>
 			<key>HibernateMode</key>
 			<string>None</string>
+			<key>HibernateSkipsPicker</key>
+			<true/>
 			<key>HideAuxiliary</key>
 			<false/>
 			<key>LauncherOption</key>
@@ -763,7 +776,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-v alcid=3 watchdog=0 igfxonln=1 agdpmod=vit9696 -vi2c-force-polling igfxagdc=0 -wegnoegpu</string>
+				<string>-v alcid=11 -shikigva=80 watchdog=0 igfxonln=1 agdpmod=vit9696 -vi2c-force-polling igfxagdc=0 -wegnoegpu</string>
 				<key>csr-active-config</key>
 				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
@@ -828,22 +841,22 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VC07RHV29</string>
+			<string>C02TX5FMHV51</string>
 			<key>SystemUUID</key>
-			<string>8E99B6E8-72B1-4A9E-AC26-8C8428F2BD15</string>
+			<string>33FA2C30-4706-4B31-ABE6-EA231FF4335F</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseFeatures</key>
-			<true/>
+			<false/>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02736701J9HWVPFB</string>
+			<string>C02723773CDHWVP8C</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>vEq14z2u</data>
+			<data>Izek9DNf</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
@@ -851,9 +864,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VC07RHV29</string>
+			<string>C02TX5FMHV51</string>
 			<key>SystemUUID</key>
-			<string>8E99B6E8-72B1-4A9E-AC26-8C8428F2BD15</string>
+			<string>33FA2C30-4706-4B31-ABE6-EA231FF4335F</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -864,22 +877,22 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f/8f/wgAAAA=</data>
 			<key>MLB</key>
-			<string>C02736701J9HWVPFB</string>
+			<string>C02723773CDHWVP8C</string>
 			<key>ROM</key>
-			<data>vEq14z2u</data>
+			<data>Izek9DNf</data>
 			<key>SystemSerialNumber</key>
-			<string>C02VC07RHV29</string>
+			<string>C02TX0FMHV29</string>
 			<key>SystemUUID</key>
-			<string>8E99B6E8-72B1-4A9E-AC26-8C8428F2BD15</string>
+			<string>33FA2C30-4706-4B31-ABE6-EA231FF4335F</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>03/16/2022</string>
+			<string>02/02/2023</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>451.120.7.0.0</string>
+			<string>509.0.0.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -889,7 +902,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-B4831CEBD52A0C4C</string>
 			<key>BoardSerialNumber</key>
-			<string>C02736701J9HWVPFB</string>
+			<string>C02723773CDHWVP8C</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -899,7 +912,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02VC07RHV29</string>
+			<string>C02TX5FMHV51</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -911,7 +924,7 @@
 			<key>PlatformFeature</key>
 			<integer>26</integer>
 			<key>ProcessorType</key>
-			<integer>1537</integer>
+			<integer>0</integer>
 			<key>SmcVersion</key>
 			<data></data>
 			<key>SystemFamily</key>
@@ -923,9 +936,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VC07RHV29</string>
+			<string>C02TX5FMHV51</string>
 			<key>SystemUUID</key>
-			<string>8E99B6E8-72B1-4A9E-AC26-8C8428F2BD15</string>
+			<string>33FA2C30-4706-4B31-ABE6-EA231FF4335F</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
@@ -936,7 +949,7 @@
 		<key>UpdateSMBIOS</key>
 		<true/>
 		<key>UpdateSMBIOSMode</key>
-		<string>Create</string>
+		<string>Overwrite</string>
 		<key>UseRawUuidEncoding</key>
 		<true/>
 	</dict>
@@ -969,6 +982,12 @@
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
+			<key>PointerDwellClickTimeout</key>
+			<integer>0</integer>
+			<key>PointerDwellDoubleClickTimeout</key>
+			<integer>0</integer>
+			<key>PointerDwellRadius</key>
+			<integer>0</integer>
 			<key>PointerPollMask</key>
 			<integer>-1</integer>
 			<key>PointerPollMin</key>
@@ -1187,6 +1206,8 @@
 			<true/>
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
+			<key>ResizeUsePciRbIo</key>
+			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
