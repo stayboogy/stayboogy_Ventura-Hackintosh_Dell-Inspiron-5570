@@ -4,6 +4,8 @@
 
 https://youtu.be/D2EpMpnOgDE
 
+trackpad
+
 audio
 
 AirPod Audio DRM Apple Music
@@ -41,7 +43,9 @@ keyboard display brightness keys F11/F12 (use FN+S / FN+B instead)
 
 ## Ventura Installer Image for Dell Inspiron 5570 and 5000 series Laptops
 
-https://www.mediafire.com/file/hw2n6ttctgxim1y/stayboogy_Ventura.raw/file
+https://www.mediafire.com/file/miuye8v898qh7gw/stayboogy_VenturaUSB.raw/file
+
+MD5: daef5af0cad299d5d7787fc0e456336e
 
 1) Write the image to a flash drive of 16GB or more using your preferred method
 
@@ -49,7 +53,7 @@ https://www.mediafire.com/file/hw2n6ttctgxim1y/stayboogy_Ventura.raw/file
 
 ## Post Setup EFI
 
-https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/EFI-PostInstall-Rev03.zip
+https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev07.zip
 
 ## Full Video Tutorial
 
