@@ -1,42 +1,36 @@
 # stayboogy Ventura Hackintosh Dell Inspiron 5570
 
+MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
+
+![App Screenshot](https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/neofetch_SystemInfo.png)
+
 ## Working:
 
 https://youtu.be/VAYKbTMqm4k
 
-trackpad
+Working:
 
-SDCard reader
-
-audio
-
+Trackpad
+SDCard Reader
+Audio
 AirPod Audio DRM Apple Music
-
-video graphics
-
-display backlight
-
-keyboard backlight
-
-keyboard media keys
-
-keyboard audio keys
-
-icloud (requires smbios editing)
-
-wifi + bluetooth + continuity (requires proper wifi card - amazon)
-
+Video Graphics
+Display Backlight
+Keyboard Backlight
+Keyboard Media Keys
+Keyboard Volume Keys
+iCloud + iMessage + FindMy + ETC (requires smbios editing)
+WiFi + Bluetooth + Continuity (requires proper wifi card - amazon)
 AirDrop
+Sidecar iPad
+Unlock with Apple Watch
+Continuity Camera
+HDMI Output
+File Vault
 
-sidecar iPad
+Not Working:
 
-unlock with Apple Watch
-
-continuity camera
-
-hdmi output
-
-file vault
+Keyboard Brightness Keys (can be set in Keyboard Shortcuts Settings)
 
 ## Not Working:
 
