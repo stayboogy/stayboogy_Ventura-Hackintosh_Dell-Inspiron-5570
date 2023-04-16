@@ -11,21 +11,37 @@ https://youtu.be/VAYKbTMqm4k
 Working:
 
 Trackpad
+
 SDCard Reader
+
 Audio
+
 AirPod Audio DRM Apple Music
+
 Video Graphics
+
 Display Backlight
+
 Keyboard Backlight
+
 Keyboard Media Keys
+
 Keyboard Volume Keys
+
 iCloud + iMessage + FindMy + ETC (requires smbios editing)
+
 WiFi + Bluetooth + Continuity (requires proper wifi card - amazon)
+
 AirDrop
+
 Sidecar iPad
+
 Unlock with Apple Watch
+
 Continuity Camera
+
 HDMI Output
+
 File Vault
 
 Not Working:
