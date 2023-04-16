@@ -67,11 +67,13 @@
 
 2) MaciASL - DSDT and SSDT software
 
-3) OpenCore Configurator.app - For editing your config.plist
+3) LockSleep - App I made to do what DisplaySleepLock does above - useful to put into dock to make it an easy process
 
-4) TextMate.app - better text editing app - edit anything including config.plist
+4) OpenCore Configurator.app - For editing your config.plist
 
-5) ProperTree_Ventura.zip - config.plist editor
+5) TextMate.app - better text editing app - edit anything including config.plist
+
+6) ProperTree_Ventura.zip - config.plist editor
 	A) Install the Python Package first or else ProperTree will not run
 	B) Ventura specific build I made from source
 
