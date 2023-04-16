@@ -8,14 +8,19 @@
 4) copy over unzipped EFI folder to recently mounted hdd EFI partition
 5) reboot
 
-## MountEFI - script executable I made that Mounts the EFI Partition of the HDD
+## MountEFI
+    script executable I made that Mounts the EFI Partition of the HDD
+    
 	Right Click and Open in Terminal
 	or
 	Double Click to run
 
-## DisplaySleepLock - script executable I made to Lock and Sleep the Display before closing lid to 		      overcome not asking for password when lid is closed and then reopened
+## DisplaySleepLock 
+    script executable I made to Lock and Sleep the Display before closing lid to overcome not asking for password when lid is closed and then reopened before "pmset displaysleeptime value"
 
-## pmsetter - script executable I made to set the proper Power Settings for the only sleep that works
+## pmsetter 
+    script executable I made to set the proper Power Settings for the only sleep that works
+    
 	Right Click and Open in Terminal
 	or
 	Double Click to run
@@ -29,7 +34,8 @@
 		or 
 		B) you can lock from the Apple Menu before closing the lid so that password is 			required when you open the lid if done before your displaysleep time setting
 
-## neofetch - executable to see your Mac Info nice and neat like in my screenshot
+## neofetch 
+    executable to see your Mac Info nice and neat like in my screenshot
 
 ## PostSetupApps.zip
 
