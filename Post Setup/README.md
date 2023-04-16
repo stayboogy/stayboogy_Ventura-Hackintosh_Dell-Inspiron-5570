@@ -16,7 +16,9 @@
 	Double Click to run
 
 ## DisplaySleepLock 
-    script executable I made to Lock and Sleep the Display before closing lid to overcome not asking for password when lid is closed and then reopened before "pmset displaysleeptime value"
+    script executable I made to Lock and Sleep the Display 
+    before closing lid to overcome not asking for password 
+    when lid is closed and then reopened before "pmset displaysleeptime value"
 
 ## pmsetter 
     script executable I made to set the proper Power Settings for the only sleep that works
@@ -25,14 +27,23 @@
 	or
 	Double Click to run
 
-	*This is the best possible setting for having nice battery but being able to wake up after 	closing the lid or the display goes to sleep on its own
+	*This is the best possible setting for 
+    having nice battery but being able to wake up 
+    after closing the lid or the display goes to sleep on its own
 	
 	1) Sets no "deep" sleep and no "hibernation" and the display to turn off after 2 minutes.
-	2)You can change this by opening in TextMate (PostSetupApps.zip) and changing all instances of "displaysleep 2" to whatever number you want in minutes for the display to cut off.
-	3) If you close the lid, it will not ask for password when opening unless the same 2 minutes or the number you choose to put there if you edit
-		A)so use the included "DisplaySleepLock" executable to lock your machine before closing the lid 
+	2)You can change this by opening in TextMate (PostSetupApps.zip) 
+    and changing all instances of "displaysleep 2" to whatever number 
+    you want in minutes for the display to cut off.
+	3) If you close the lid, it will not ask for password when opening 
+    unless the same 2 minutes or the number you choose 
+    to put there if you edit pmsetter
+		A)so use the included "DisplaySleepLock" executable 
+        to lock your machine before closing the lid 
 		or 
-		B) you can lock from the Apple Menu before closing the lid so that password is required when you open the lid if done before your displaysleep time setting
+		B) you can lock from the Apple Menu before closing the lid 
+        so that password is required when you open the lid 
+        if done before your displaysleep time setting
 
 ## neofetch 
     executable to see your Mac Info nice and neat like in my screenshot
