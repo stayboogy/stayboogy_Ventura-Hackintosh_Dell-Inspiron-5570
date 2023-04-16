@@ -2,7 +2,7 @@
 
 ## Working:
 
-https://youtu.be/D2EpMpnOgDE
+https://youtu.be/VAYKbTMqm4k
 
 trackpad
 
@@ -59,7 +59,7 @@ https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blo
 
 ## Full Video Tutorial
 
-https://youtu.be/IXkITt6ZECU
+https://youtu.be/VAYKbTMqm4k
 
 
 ## Simplified Directions
@@ -68,7 +68,7 @@ https://youtu.be/IXkITt6ZECU
 2) Set BIOS Settings for MacOS
 3) Boot from Installer Flash Drive
 4) Install MacOS
-5) Copy EFI from Installer Flash Drive to EFI Partition on HDD
+5) Copy PostSetup EFI to EFI Partition on HDD
 
 Optional:
 
@@ -80,14 +80,12 @@ Optional:
 
 ## Notes
 
-1) This process assumes you are using two disks like I am here.  If you are installing MacOS on the same disk as Windows, A) Backup your EFI folder structure to another usb first before starting this process, B) Delete "Clover" and/or "OC" folder that may be present in that EFI backup, C) Make sure the "Microsoft" folder and "Boot" folder remain, D) After this entire process is completed as shown here in the video, copy this backup into the EFI folder on the hard drive that we just copied from our usb installer.
+1) Supplied SMBIOS Information in the Installer EFI config.plist is for installing only.  DO NOT sign into iCloud without inputing your own SMBIOS info in the Platform Section.
 
-2) Supplied SMBIOS Information in the Installer EFI config.plist is for installing only.  DO NOT sign into iCloud without inputing your own SMBIOS info in the Platform Section.
+2) OpenCore Configurator is included in this repo so you can mount your EFI for Post Setup Tasks and so you can edit your config.plist.
 
-3) OpenCore Configurator is included in this repo so you can mount your EFI for Post Setup Tasks and so you can edit your config.plist.
+3) All Continuity Features are working, but they require a compatible wireless network card - I got mine off Amazon and I have all everything working.
 
-4) All Continuity Features are working, but they require a compatible wireless network card - I got mine off Amazon and I have all everything working.
+4) For AirPod Audio Streaming to working from Apple Music and Apple TV, you must authorize your computer from the Account menu in each app.
 
-5) For AirPod Audio Streaming to working from Apple Music and Apple TV, you must authorize your computer from the Account menu in each app.
-
-6) Final EFI to be installed to HDD after install is completed is in this repo - use the latest revision instead of the EFI on your installer flash drive.
+5) Final EFI to be installed to HDD after install is completed is in this repo - use the latest revision instead of the EFI on your installer flash drive.
