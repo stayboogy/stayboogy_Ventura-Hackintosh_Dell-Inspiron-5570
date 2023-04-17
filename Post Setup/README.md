@@ -56,8 +56,6 @@
 
 ## PostSetupApps.zip
 
-*I did not make these apps, they are included for your benefit only
-
 1) GenSMBIOS - generate SMBIOS information for your hackintosh
 	Choose ONLY:
 	MacBook10,1 (low end dual core configuration) 
