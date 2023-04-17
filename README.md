@@ -32,13 +32,13 @@ https://youtu.be/VAYKbTMqm4k
   - these can be changed in Keyboard Shortcut Settings
   
 - Wake From Sleep
- - I have created two apps PostPowerPerf and LockSleep
- - these apps handle Power Settings
- - PostPowerPerf must be run anytime after setup
- - LockSleep is the only sleep supported and must be clicked before closing lid
- - Apple Menu-->Lock Screen will do the same thing other than sleeping the screen
- - closing lid will only cut off display but not lock your account
- - LockSleep overcomes this problem that only exists because of incompatible power code in BIOS
+  - I have created two apps PostPowerPerf and LockSleep
+  - these apps handle Power Settings
+  - PostPowerPerf must be run anytime after setup
+  - LockSleep is the only sleep supported and must be clicked before closing lid
+  - Apple Menu-->Lock Screen will do the same thing other than sleeping the screen
+  - closing lid will only cut off display but not lock your account
+  - LockSleep overcomes this problem that only exists because of incompatible power code in BIOS
 
 ## Ventura Installer Image for Dell Inspiron 5570 and 5000 series Laptops
 
@@ -46,9 +46,9 @@ https://www.mediafire.com/file/miuye8v898qh7gw/stayboogy_VenturaUSB.raw/file
 
 MD5: daef5af0cad299d5d7787fc0e456336e
 
-1) Write the image to a flash drive of 16GB or more using your preferred method
+- Write the image to a flash drive of 16GB or more using your preferred method
 
-2) if you don't know how to write this image to a flash drive, stop here, go no further
+- If you don't know how to write this image to a flash drive, stop here, go no further
 
 ## Post Setup EFI
 
