@@ -29,7 +29,7 @@ https://youtu.be/VAYKbTMqm4k
 ## Not Working:
 
 - Keyboard Display Brightness keys F11/F12 (use FN+S / FN+B instead)
-  (these can be changed in Keyboard Shortcut Settings)
+  - these can be changed in Keyboard Shortcut Settings
 - Wake From Sleep
  -I have created two apps PostPowerPerf and LockSleep
  -These apps handle Power Settings
