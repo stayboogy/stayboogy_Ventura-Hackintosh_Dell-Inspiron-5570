@@ -39,8 +39,8 @@
         you want in minutes for the display to cut off.
     
 	3) If you close the lid, it will not ask for password when opening 
-        unless the same 2 minutes or the number you choose 
-        to put there if you edit pmsetter
+        unless the same 2 minutes, or the number you choose 
+        to put there if you edit pmsetter, passes and then is not guaranteed.
     
 		A) so use the included "DisplaySleepLock" executable 
             to lock your machine before closing the lid 
