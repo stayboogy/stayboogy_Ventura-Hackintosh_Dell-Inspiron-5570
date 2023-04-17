@@ -39,32 +39,36 @@
     
     Apple Menu-->Lock Screen does basically the same thing other than sleeping the screen.  
     
-    My app is one-click solution.
+    My app is a one-click solution.
     
 ## ThirdPartyApps
 
-1) GenSMBIOS - generate SMBIOS information for your hackintosh
+- GenSMBIOS - generate SMBIOS information for your hackintosh
 
 	Choose ONLY:
 
-	MacBook10,1 (low end dual core configuration) 
+	- MacBook10,1 (low end dual core configuration) 
 
-	MacBookPro14,1 (appropriate cpu and graphics profile--good)
+	- MacBookPro14,1 (appropriate cpu and graphics profile--good)
  
-	MacBookPro14,2 (appropriate cpu and graphics profile--high end)
+	- MacBookPro14,2 (appropriate cpu and graphics profile--high end)
  
-	MacBookPro15,2 (best cpu and graphics profile--top tier, what I use)
+	- MacBookPro15,2 (best cpu and graphics profile--top tier, what I use)
 
-2) MaciASL - DSDT and SSDT software
+- MaciASL 
+    - DSDT and SSDT software
 
-3) NeoFetch - System Information generator like my screenshot
+- NeoFetch 
+    - System Information generator like my screenshot
 
-4) OpenCore Configurator.app - For editing your config.plist
+- OpenCore Configurator.app 
+    - For editing your config.plist
 
-5) TextMate.app - better text editing app - edit anything including config.plist
+- TextMate.app
+    - better text editing app - edit anything including config.plist
 
-6) ProperTree_Ventura.zip - config.plist editor
-	A) Install the Python Package first or else ProperTree will not run
-	B) Ventura specific build I made from source
+- ProperTree_Ventura.zip - config.plist editor
+	- Install the Python Package first or else ProperTree will not run
+	- Ventura specific build I made from source
 
 
