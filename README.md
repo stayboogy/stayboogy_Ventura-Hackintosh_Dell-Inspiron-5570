@@ -86,6 +86,7 @@ https://youtu.be/VAYKbTMqm4k
 3) Boot from Installer Flash Drive
 4) Install MacOS
 5) Copy PostSetup EFI to EFI Partition on HDD
+6) Run PostPowerPerf.app
 
 Optional:
 
