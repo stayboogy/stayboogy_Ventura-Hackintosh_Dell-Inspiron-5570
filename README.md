@@ -2,13 +2,11 @@
 
 MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 
+https://youtu.be/VAYKbTMqm4k
+
 ![App Screenshot](https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/neofetch_SystemInfo.png)
 
 ## Working:
-
-https://youtu.be/VAYKbTMqm4k
-
-Working:
 
 Trackpad
 
