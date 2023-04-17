@@ -58,9 +58,13 @@
 
 1) GenSMBIOS - generate SMBIOS information for your hackintosh
 	Choose ONLY:
+
 	MacBook10,1 (low end dual core configuration) 
-	MacBookPro14,1 (appropriate cpu and graphics profile) 
-	MacBookPro14,2 (appropriate cpu and graphics profile--high end) 
+
+	MacBookPro14,1 (appropriate cpu and graphics profile)
+ 
+	MacBookPro14,2 (appropriate cpu and graphics profile--high end)
+ 
 	MacBookPro15,2 (best cpu and graphics profile--what I use)
 
 2) MaciASL - DSDT and SSDT software
