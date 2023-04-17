@@ -31,13 +31,13 @@ https://youtu.be/VAYKbTMqm4k
 - Keyboard Display Brightness keys F11/F12 (use FN+S / FN+B instead)
   - these can be changed in Keyboard Shortcut Settings
 - Wake From Sleep
- -I have created two apps PostPowerPerf and LockSleep
- -These apps handle Power Settings
- -PostPowerPerf must be run anytime after setup
- -LockSleep is the only sleep supported and must be clicked before closing lid
- -Apple Menu-->Lock Screen will do the same thing other than sleeping the screen
- -Closing Lid will only cut off display but not lock your account
- -LockSleep overcomes this problem that only exists because of incompatible power code in BIOS
+ - I have created two apps PostPowerPerf and LockSleep
+ - These apps handle Power Settings
+ - PostPowerPerf must be run anytime after setup
+ - LockSleep is the only sleep supported and must be clicked before closing lid
+ - Apple Menu-->Lock Screen will do the same thing other than sleeping the screen
+ - Closing Lid will only cut off display but not lock your account
+ - LockSleep overcomes this problem that only exists because of incompatible power code in BIOS
 
 ## Ventura Installer Image for Dell Inspiron 5570 and 5000 series Laptops
 
