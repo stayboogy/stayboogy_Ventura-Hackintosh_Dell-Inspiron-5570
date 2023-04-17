@@ -48,10 +48,10 @@ Keyboard Brightness Keys (can be set in Keyboard Shortcuts Settings)
 
 ## Not Working:
 
-Keyboard Display Brightness keys F11/F12 (use FN+S / FN+B instead)
+-Keyboard Display Brightness keys F11/F12 (use FN+S / FN+B instead)
  - these can be changed in Keyboard Shortcut Settings
 
-Wake From Sleep
+-Wake From Sleep
  - I have created two apps PostPowerPerf and LockSleep
  - These apps handle Power Settings
  - PostPowerPerf must be run anytime after setup
