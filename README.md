@@ -8,50 +8,30 @@ https://youtu.be/VAYKbTMqm4k
 
 ## Working:
 
-Trackpad
-
-SDCard Reader
-
-Audio
-
-AirPod Audio DRM Apple Music
-
-Video Graphics
-
-Display Backlight
-
-Keyboard Backlight
-
-Keyboard Media Keys
-
-Keyboard Volume Keys
-
-iCloud + iMessage + FindMy + ETC (requires smbios editing)
-
-WiFi + Bluetooth + Continuity (requires proper wifi card - amazon)
-
-AirDrop
-
-Sidecar iPad
-
-Unlock with Apple Watch
-
-Continuity Camera
-
-HDMI Output
-
-File Vault
-
-Not Working:
-
-Keyboard Brightness Keys (can be set in Keyboard Shortcuts Settings)
+- Trackpad
+- SDCard Reader
+- Audio
+- AirPod Audio DRM Apple Music
+- Video Graphics
+- Display Backlight
+- Keyboard Backlight
+- Keyboard Media Keys
+- Keyboard Volume Keys
+- iCloud + iMessage + FindMy + ETC (requires smbios editing)
+- WiFi + Bluetooth + Continuity (requires proper wifi card - amazon)
+- AirDrop
+- Sidecar iPad
+- Unlock with Apple Watch
+- Continuity Camera
+- HDMI Output
+- File Vault
 
 ## Not Working:
 
--Keyboard Display Brightness keys F11/F12 (use FN+S / FN+B instead)
+- Keyboard Display Brightness keys F11/F12 (use FN+S / FN+B instead)
  - these can be changed in Keyboard Shortcut Settings
 
--Wake From Sleep
+- Wake From Sleep
  - I have created two apps PostPowerPerf and LockSleep
  - These apps handle Power Settings
  - PostPowerPerf must be run anytime after setup
@@ -77,7 +57,6 @@ https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blo
 ## Full Video Tutorial
 
 https://youtu.be/VAYKbTMqm4k
-
 
 ## Simplified Directions
 
