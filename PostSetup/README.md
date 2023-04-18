@@ -9,7 +9,7 @@
 8) Run "PostPowerPerf.app" to set my custom Power Manager Settings
 9) Enjoy
 
-## PostSetup_EFI_Rev08.zip
+## PostSetup_EFI_Rev09.zip
 
 1) unzip
 2) run My MountEFI

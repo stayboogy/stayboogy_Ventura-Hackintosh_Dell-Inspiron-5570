@@ -52,7 +52,7 @@ MD5: daef5af0cad299d5d7787fc0e456336e
 
 ## Post Setup EFI
 
-https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev08.zip
+https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev09.zip
 
 ## Full Video Tutorial
 
