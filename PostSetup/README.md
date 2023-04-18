@@ -1,6 +1,6 @@
 # PostSetup Process
 
-1) Run "MountEFI.app" to mount the EFI partition
+1) Run "MountEFI" to mount the EFI partition
 2) Unzip PostSetup_EFI_Rev08.zip
 4) delete all files on hdd EFI partition that was mounted
 5) copy over unzipped EFI folder to recently mounted EFI partition
@@ -12,14 +12,14 @@
 ## PostSetup_EFI_Rev08.zip
 
 1) unzip
-2) run My MountEFI.app
+2) run My MountEFI
 3) delete all files on hdd EFI partition that was mounted
 4) copy over unzipped EFI folder to recently mounted hdd EFI partition
 5) reboot
 6) reset nvram
 
-## MountEFI.app
-    App I created to Mount EFI Partition
+## MountEFI
+    Executable I created to Mount EFI Partition
 
 ## PostPowerPerf.app
     App I created to configure the only working power manager settings 
