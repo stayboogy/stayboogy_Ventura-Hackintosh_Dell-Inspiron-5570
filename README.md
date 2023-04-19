@@ -2,13 +2,15 @@
 
 MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 
-https://youtu.be/VAYKbTMqm4k
+## FULL HD INSTALL VIDEO + FEATURE SHOWCASE
+
+[[https://youtu.be/VAYKbTMqm4k]](https://youtu.be/VAYKbTMqm4k)
 
 ![App Screenshot](https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/neofetch_SystemInfo.png)
 
 ## Working:
 
-- Sleep + Wake (AC + Battery)
+- Sleep + Wake (AC + Battery)  https://youtu.be/Kh5DXARwDDc
 
 - Trackpad
 - SDCard Reader
