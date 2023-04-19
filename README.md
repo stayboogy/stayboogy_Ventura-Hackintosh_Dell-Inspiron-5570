@@ -45,7 +45,7 @@ MD5: daef5af0cad299d5d7787fc0e456336e
 
 ## Post Setup EFI
 
-https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev09.zip
+https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev10.zip
 
 ## Full Video Tutorial
 
@@ -58,15 +58,17 @@ https://youtu.be/VAYKbTMqm4k
 3) Boot from Installer Flash Drive
 4) Install MacOS
 5) Copy PostSetup EFI to EFI Partition on HDD
-6) Run PostPowerPerf.app
+6) Reboot
+7) Reset NVRAM
+8) Enjoy
 
 Optional:
 
-6) Do your own SMBIOS Editing for iCloud if needed (do not use supplied SMBIOS Info)
-7) Turn on FileVault
-8) Sign into iCloud
-9) Enjoy MacOS in all its Glory
-10) follow stayboogy
+9) Do your own SMBIOS Editing for iCloud if needed (do not use supplied SMBIOS Info)
+10) Turn on FileVault
+11) Sign into iCloud
+12) Enjoy MacOS in all its Glory
+13) follow stayboogy
 
 ## Notes
 
