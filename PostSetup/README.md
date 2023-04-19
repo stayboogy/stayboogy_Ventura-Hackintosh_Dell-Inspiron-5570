@@ -6,8 +6,7 @@
 5) copy over unzipped EFI folder to recently mounted EFI partition
 6) reboot
 7) reset nvram
-8) Run "PostPowerPerf.app" to set my custom Power Manager Settings
-9) Enjoy
+8) Enjoy
 
 ## PostSetup_EFI_Rev09.zip
 
@@ -20,26 +19,6 @@
 
 ## MountEFI
     Executable I created to Mount EFI Partition
-
-## PostPowerPerf.app
-    App I created to configure the only working power manager settings 
-
-## LockSleep.app 
-    App I created to lock and sleep the screen.
-    
-    This is the only sleep and wake that works.
-    
-    After Running PostPowerPerf, you must click LockSleep before you close your lid.
-    
-    Closing the Lid will only cut off the display, it will not Lock your Screen or Account.
-    
-    This is due to my custom power settings, which are set due to incompatible BIOS power code.
-    
-    LockSleep overcomes this issue.  LockSleep will immediately lock your device and sleep the display.
-    
-    Apple Menu-->Lock Screen does basically the same thing other than sleeping the screen.  
-    
-    My app is a one-click solution.
     
 ## ThirdPartyApps
 
