@@ -2,7 +2,7 @@
 
 MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 
-## FULL HD INSTALL VIDEO + FEATURE SHOWCASE
+## Full HD Install Tutorial Video + Feature Showcase
 
 [[https://youtu.be/VAYKbTMqm4k]](https://youtu.be/VAYKbTMqm4k)
 
