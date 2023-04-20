@@ -20,6 +20,8 @@ or
 4) copy over unzipped EFI folder to recently mounted hdd EFI partition
 5) reboot
 6) reset nvram
+7) open terminal and run:
+    "sudo pmset -a restoredefaults"
 
 ## MountEFI
     Executable I created to Mount EFI Partition
