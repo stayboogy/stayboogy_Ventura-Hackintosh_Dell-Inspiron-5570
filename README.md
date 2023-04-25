@@ -2,6 +2,16 @@
 
 MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 
+- My Device Specifications 
+	- Dell Inspiron 5570
+	- BIOS v1.13 - Must have v1.7 or higher for best results
+	- i5-8250u Quad Core Kaby Lake R 
+	- Integrated UHD 620 Graphics
+	- BCM94360NG 802.11a/b/g/n/ac 
+	- 3 USB-A Ports + SDCard Reader
+	- With DVDRW or Without both devices are identical internally
+	- I have 2 SSDs, 1 x TB 2.5", 1 x m.2 500GB
+	
 ## Full HD Install Tutorial Video + Feature Showcase
 
 [[https://youtu.be/VAYKbTMqm4k]](https://youtu.be/VAYKbTMqm4k)
@@ -10,7 +20,8 @@ MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 
 ## Working:
 
-- Sleep + Wake (AC + Battery)  https://youtu.be/Kh5DXARwDDc
+- Sleep + Wake + Shutdown + Restart (AC + Battery) 
+	- https://youtu.be/Kh5DXARwDDc
 
 - Trackpad
 - SDCard Reader
@@ -47,7 +58,7 @@ MD5: daef5af0cad299d5d7787fc0e456336e
 
 ## Post Setup EFI
 
-https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev10.zip
+https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev11.zip
 
 ## Full Video Tutorial
 
@@ -74,12 +85,17 @@ Optional:
 
 ## Notes
 
-1) Supplied SMBIOS Information in the Installer EFI config.plist is for installing only.  DO NOT sign into iCloud without inputing your own SMBIOS info in the Platform Section.
+1) Supplied SMBIOS Information in the Installer EFI config.plist is for installing only.  
+	- DO NOT sign into iCloud without inputing your own SMBIOS info in the Platform Section.
+	- MacBookPro14,2 is the Only SMBIOS platform to use - 
+	- Make sure you never use a real valid key - test every configuration
+	- Change a few characters in every item that GenSMBIOS / OpenCore Configurator gives you
+	- ALL SMBIOS Data is important for All the Real Features of using a MacBook
 
 2) OpenCore Configurator is included in this repo so you can mount your EFI for Post Setup Tasks and so you can edit your config.plist.
 
-3) All Continuity Features are working, but they require a compatible wireless network card - I got mine off Amazon and I have all everything working.
+3) All Continuity Features are working but they require a compatible wireless network card
 
-4) For AirPod Audio Streaming to working from Apple Music and Apple TV, you must authorize your computer from the Account menu in each app.
+4) For AirPod Audio Streaming to work from Apple Music and Apple TV, you must authorize your computer from the Account menu in each app.
 
 5) Final EFI to be installed to HDD after install is completed is in this repo - use the latest revision instead of the EFI on your installer flash drive.

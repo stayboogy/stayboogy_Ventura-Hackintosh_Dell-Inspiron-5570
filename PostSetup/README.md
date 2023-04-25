@@ -7,10 +7,10 @@ or
 4) delete all files on hdd EFI partition that was mounted
 5) copy over unzipped EFI folder to recently mounted EFI partition
 6) reboot
-7) reset nvram
+7) reset nvram - See Below
 8) Enjoy
 
-## PostSetup_EFI_Rev10.zip
+## PostSetup_EFI_Rev11.zip
 
 1) unzip
 2) run My MountEFI
@@ -22,6 +22,12 @@ or
 6) reset nvram
 7) open terminal and run:
     "sudo pmset -a restoredefaults"
+    
+## Reset NVRAM from OpenCore Boot Menu
+
+- After any changes to your config.plist
+- After any SMBIOS changes
+- After any update to the System EFI
 
 ## MountEFI
     Executable I created to Mount EFI Partition
@@ -29,16 +35,11 @@ or
 ## ThirdPartyApps
 
 - GenSMBIOS - generate SMBIOS information for your hackintosh
-
-	Choose ONLY:
-
-	- MacBook10,1 (low end dual core configuration) 
-
-	- MacBookPro14,1 (appropriate cpu and graphics profile--good)
- 
-	- MacBookPro14,2 (appropriate cpu and graphics profile--high end)
- 
-	- MacBookPro15,2 (best cpu and graphics profile--top tier, what I use)
+    - DO NOT sign into iCloud without inputing your own SMBIOS info in the Platform Section.
+    - MacBookPro14,2 is the Only SMBIOS platform to use - 
+    - Make sure you never use a real valid key - test every configuration
+    - Change a few characters in every item that GenSMBIOS / OpenCore Configurator gives you
+    - ALL SMBIOS Data is important for All the Real Features of using a MacBook
 
 - MaciASL 
     - DSDT and SSDT software
