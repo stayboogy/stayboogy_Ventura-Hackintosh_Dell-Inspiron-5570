@@ -1,16 +1,22 @@
 # PostSetup Process
 
 1) Run "MountEFI" to mount the EFI partition
+
 or
+
 1) Run OpenCore Configurator-->Tools-->Mount EFI
-2) Unzip PostSetup_EFI_Rev10.zip
+2) Unzip stayboogyVentura-PostSetup-EFI-Rev13.zip 
+
+or 
+
+2) Unzip stayboogyVentura-PostSetup-EFI-Rev13-WiFi.zip
 4) delete all files on hdd EFI partition that was mounted
 5) copy over unzipped EFI folder to recently mounted EFI partition
 6) reboot
 7) reset nvram - See Below
 8) Enjoy
 
-## PostSetup_EFI_Rev11.zip
+## stayboogyVentura-PostSetup-EFI-Rev13.zip / stayboogyVentura-PostSetup-EFI-Rev13-WiFi.zip
 
 1) unzip
 2) run My MountEFI
