@@ -36,6 +36,7 @@ MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 - WiFi + Bluetooth + Continuity (requires proper wifi card - amazon)
 - AirDrop
 - Sidecar iPad
+- Wireless Display
 - Unlock with Apple Watch
 - Continuity Camera
 - HDMI Output
@@ -43,8 +44,8 @@ MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 
 ## Not Working:
 
-- Keyboard Display Brightness keys F11/F12 (use FN+S / FN+B instead)
-  - these can be changed in Keyboard Shortcut Settings
+- Keyboard Display Brightness keys F11/F12 (use FN+S / FN+B by default)
+  - these can be changed in Keyboard Shortcut Settings back to F11 and F12
 
 ## Ventura Installer Image for Dell Inspiron 5570 and 5000 series Laptops
 
@@ -58,9 +59,13 @@ MD5: daef5af0cad299d5d7787fc0e456336e
 
 ## Post Setup EFI
 
-https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev11.zip
+-Without Compatible Wifi Card / Ethernet / Non-Native Apple BT+WiFi Cards or Adapters
+https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev13.zip
 
-## Full Video Tutorial
+-With Compatible Native Apple Wifi+BT Card
+https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/PostSetup/stayboogyVentura-PostSetup-EFI-Rev13-WiFi.zip
+
+## Full Video Tutorial 
 
 https://youtu.be/VAYKbTMqm4k
 
@@ -87,15 +92,16 @@ Optional:
 
 1) Supplied SMBIOS Information in the Installer EFI config.plist is for installing only.  
 	- DO NOT sign into iCloud without inputing your own SMBIOS info in the Platform Section.
-	- MacBookPro14,2 is the Only SMBIOS platform to use - 
+	- MacBookPro14,2 is the Only SMBIOS platform to use
+	- Installer is set as MacBookPro14,1 and you SHOULD change to 14,2 whether you use iCloud or not
 	- Make sure you never use a real valid key - test every configuration
 	- Change a few characters in every item that GenSMBIOS / OpenCore Configurator gives you
 	- ALL SMBIOS Data is important for All the Real Features of using a MacBook
 
 2) OpenCore Configurator is included in this repo so you can mount your EFI for Post Setup Tasks and so you can edit your config.plist.
 
-3) All Continuity Features are working but they require a compatible wireless network card
+3) All Continuity Features are working but they require a compatible wireless network card.
 
 4) For AirPod Audio Streaming to work from Apple Music and Apple TV, you must authorize your computer from the Account menu in each app.
 
-5) Final EFI to be installed to HDD after install is completed is in this repo - use the latest revision instead of the EFI on your installer flash drive.
+5) The Final EFI to be installed to HDD after install is in this repo - use the latest revision instead of the EFI on your installer flash drive.
