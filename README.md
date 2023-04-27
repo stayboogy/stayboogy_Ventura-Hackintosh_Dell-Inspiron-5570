@@ -60,7 +60,7 @@ MD5: daef5af0cad299d5d7787fc0e456336e
 ## Post Setup EFI
 
 -Without Compatible Wifi Card / Ethernet / Non-Native Apple BT+WiFi Cards or Adapters
-https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/Post%20Setup/PostSetup_EFI_Rev13.zip
+https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/PostSetup/stayboogyVentura-PostSetup-EFI-Rev13.zip
 
 -With Compatible Native Apple Wifi+BT Card
 https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/PostSetup/stayboogyVentura-PostSetup-EFI-Rev13-WiFi.zip
