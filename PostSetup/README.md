@@ -41,11 +41,12 @@ or
 ## ThirdPartyApps
 
 - GenSMBIOS - generate SMBIOS information for your hackintosh
-    - DO NOT sign into iCloud without inputing your own SMBIOS info in the Platform Section.
-    - MacBookPro14,2 is the Only SMBIOS platform to use - 
-    - Make sure you never use a real valid key - test every configuration
-    - Change a few characters in every item that GenSMBIOS / OpenCore Configurator gives you
-    - ALL SMBIOS Data is important for All the Real Features of using a MacBook
+	- DO NOT sign into iCloud without inputing your own SMBIOS info in the Platform Section.
+	- MacBookPro14,2 is the Only SMBIOS platform to use
+	- Installer is set as MacBookPro14,1 and you SHOULD change to 14,2 whether you use iCloud or not
+	- Make sure you never use a real valid key - test every configuration
+	- Change a few characters in every item that GenSMBIOS / OpenCore Configurator gives you
+	- ALL SMBIOS Data is important for All the Real Features of using a MacBook
 
 - MaciASL 
     - DSDT and SSDT software
