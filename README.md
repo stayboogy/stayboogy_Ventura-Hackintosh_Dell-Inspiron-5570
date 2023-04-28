@@ -49,9 +49,9 @@ MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 
 ## Ventura Installer Image for Dell Inspiron 5570 and 5000 series Laptops
 
-https://www.mediafire.com/file/miuye8v898qh7gw/stayboogy_VenturaUSB.raw/file
+https://www.mediafire.com/file/w5ax5oduvkrhqo5/stayboogy_Ventura_Rev13.raw/file
 
-MD5: daef5af0cad299d5d7787fc0e456336e
+MD5: d4dfe604185ce3e99310889a5b8d0191
 
 - Write the image to a flash drive of 16GB or more using your preferred method
 
