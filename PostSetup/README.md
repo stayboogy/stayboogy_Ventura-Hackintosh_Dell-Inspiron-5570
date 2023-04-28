@@ -16,7 +16,9 @@ or
 7) reset nvram - See Below
 8) Enjoy
 
-## stayboogyVentura-PostSetup-EFI-Rev13.zip / stayboogyVentura-PostSetup-EFI-Rev13-WiFi.zip
+## stayboogyVentura-PostSetup-EFI-Rev13.zip 
+/ 
+## stayboogyVentura-PostSetup-EFI-Rev13-WiFi.zip
 
 1) unzip
 2) run My MountEFI
