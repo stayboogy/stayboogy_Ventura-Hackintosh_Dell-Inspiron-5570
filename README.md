@@ -10,7 +10,7 @@ MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 	- BCM94360NG 802.11a/b/g/n/ac 
 	- 3 USB-A Ports + SDCard Reader
 	- With DVDRW or Without both devices are identical internally
-	- I have 2 SSDs, 1 x TB 2.5", 1 x m.2 500GB
+	- I have 2 SSDs, 1 x 2.5" 1TB, 1 x m.2 500GB
 	
 ## Full HD Install Tutorial Video + Feature Showcase
 
@@ -19,6 +19,8 @@ MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 ![App Screenshot](https://github.com/stayboogy/stayboogy_Ventura-Hackintosh_Dell-Inspiron-5570/blob/main/neofetch_SystemInfo.png)
 
 ## Working:
+
+- EVERYTHING!
 
 - Sleep + Wake + Shutdown + Restart (AC + Battery) 
 	- https://youtu.be/Kh5DXARwDDc
