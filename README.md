@@ -22,9 +22,20 @@ MacOS Ventura Hackintosh Dell Inspiron 5570 (stayboogy)
 
 - EVERYTHING!
 
-- Sleep + Wake + Shutdown + Restart (AC + Battery) 
-	- https://youtu.be/Kh5DXARwDDc
-
+- Sleep + Wake + Shutdown + Restart (AC + Battery)
+	- Powernap and Full Hibernation Support (Rev 13)
+	- Long Wakes From Long Sleeps Just like a Real Macbook
+	- Shutdown and Restart Fully Working
+		- Sometimes slower and Faster based on lots of factors
+		- Just like a Real Macbook
+	- Notifcations While Asleep, Keep Alive, Find My Location Services, etc All Working
+	- Literally Just like a Real Macbook (which I have)
+	- Fully Working with Default Power Settings
+		- Modify if you wish
+		- I do not guarantee every possible config will work
+		- I see no difference from my Real Macbook in behavior
+	
+- Full SMC Control ie. Macs Fan Control Fully Working
 - Trackpad
 - SDCard Reader
 - Audio
